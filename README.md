@@ -13,6 +13,13 @@
 
 ---
 
+## Related Concepts and Implementation Candidate Links
+
+- [Related Concepts and Implementation Candidate Links](docs/RELATED_IMPLEMENTATION_LINKS.md)
+  A standalone link map organizing the urban cooling, ocean circulation, soil regeneration, forest regeneration, organic resource circulation, mobility cooling, water-circulation city, and Civilization OS concepts that can support Cooling Credits.
+
+---
+
 ## Overview
 
 **Cooling Credit Implementation Portfolio** is an open implementation framework for organizing the practical technologies, industrial entry points, and social systems that can support the **Cooling Credit** concept.
