@@ -13,6 +13,13 @@
 
 ---
 
+## Cooling Credit Multilingual Portal
+
+- [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+  A multilingual public portal for the Cooling Credit Framework, automatically switching among Japanese, English, and Arabic, and linking to the framework, MRV, Score Estimator, implementation portfolio, food-waste-to-humus model, monoculture forest regeneration, and center-mist ultrasonic cooling fan concept.
+
+---
+
 ## Related Concepts and Implementation Candidate Links
 
 - [Related Concepts and Implementation Candidate Links](docs/RELATED_IMPLEMENTATION_LINKS.md)

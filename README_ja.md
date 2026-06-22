@@ -6,6 +6,13 @@
 
 ---
 
+## クーリングクレジット多言語ポータル
+
+- [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
+  日本語・英語・アラビア語に自動切替するクーリングクレジット制度の公開ポータル。制度設計、MRV、Score Estimator、実装ポートフォリオ、フードロス腐葉土化、単一植生・放置林再生、センター超音波ミスト冷却ファンへ誘導する入口。
+
+---
+
 ## 関連構想・実装候補リンク集
 
 - [関連構想・実装候補リンク集](docs/RELATED_IMPLEMENTATION_LINKS_ja.md)
