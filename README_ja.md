@@ -13,6 +13,13 @@
 
 ---
 
+## 段階的実装ガイド
+
+- [クーリングクレジット 段階的実装ガイド INDEX](docs/implementation_guides/IMPLEMENTATION_GUIDE_INDEX_ja.md)
+  都市冷却、海洋調律、土壌再生、森林再生など、分野別に実装手順、測定項目、リスク管理、Cooling Credit Score Estimator への入力項目を整理するための実装ガイド集。
+
+---
+
 ## 概要
 
 **Cooling Credit Implementation Portfolio（クーリングクレジット実装ポートフォリオ）** は、クーリングクレジットを単なる制度案としてではなく、企業・自治体・農業者・研究者・個人が実際に参加できる **地球直接冷却の実装候補群** として整理するための公開リポジトリである。
