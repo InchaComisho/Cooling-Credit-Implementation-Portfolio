@@ -27,6 +27,13 @@
 
 ---
 
+## Monoculture Forest and Abandoned Forest Regeneration Model
+
+- [Monoculture Forest to Cooling Asset Model](docs/implementation_guides/MONOCULTURE_FOREST_TO_COOLING_ASSET_MODEL.md)
+  A Cooling Credit implementation model for converting monoculture plantations, abandoned forests, and degraded satoyama into cooling assets through mixed-forest conversion, native forest recovery, edible forest systems, humus circulation, soil water retention, evapotranspiration recovery, and regional economic circulation.
+
+---
+
 ## Overview
 
 **Cooling Credit Implementation Portfolio** is an open implementation framework for organizing the practical technologies, industrial entry points, and social systems that can support the **Cooling Credit** concept.

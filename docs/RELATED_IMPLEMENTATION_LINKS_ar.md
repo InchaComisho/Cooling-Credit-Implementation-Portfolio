@@ -50,6 +50,7 @@
 - [放置杉林を負債から資産へ──果樹・山菜・キノコ・腐葉土で森を再生する方法](https://note.com/inchacomusho/n/nfa9e2b639c06)
 - [放置杉林を負債から循環資産へ](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README_ja.md)
 - [From Abandoned Sugi Plantations to Regenerative Forest Assets](https://github.com/InchaComisho/Abandoned-Cedar-Forests-from-Liability-to-Regenerative-Asset/blob/main/README.md)
+- [نموذج تحويل الغابات أحادية النبات والغابات المهملة إلى أصول تبريد](implementation_guides/MONOCULTURE_FOREST_TO_COOLING_ASSET_MODEL_ar.md)
 
 الغابات ليست فقط أحواضًا لامتصاص CO₂، بل هي أيضًا أنظمة تبريد عبر الاحتفاظ بالماء، والنتح، والظل، ودعم تكوين السحب، واستعادة ميكروبات التربة.
 
