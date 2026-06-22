@@ -1,6 +1,6 @@
-# Cooling Credit Implementation Portfolio
+# クーリングクレジット実装ポートフォリオ
 
-## クーリングクレジット実装ポートフォリオ
+## Cooling Credit Implementation Portfolio
 
 ### 企業・自治体・農業・海洋・都市・生活技術が参加できる地球直接冷却の実装体系
 
