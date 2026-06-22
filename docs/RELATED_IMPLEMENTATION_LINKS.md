@@ -39,6 +39,7 @@ This page shows that Cooling Credits are not an isolated idea, but an integrated
 - [ゴミは存在しない](https://note.com/inchacomusho/n/n6b9d7d67484a)
 - [地球にゴミは存在しない](https://github.com/InchaComisho/There-Is-No-Waste-on-Earth/blob/main/README_ja.md)
 - [There Is No Waste on Earth](https://github.com/InchaComisho/There-Is-No-Waste-on-Earth/blob/main/README.md)
+- [Food Waste to Humus Closed-Loop Cooling Credit Model](implementation_guides/FOOD_WASTE_TO_HUMUS_CLOSED_LOOP_COOLING_CREDIT_MODEL.md)
 
 By drying, crushing, sanitizing, and microbially decomposing food loss, kitchen waste, fallen leaves, and other organic waste into humus-like material, it may be possible to support soil moisture recovery, microbial recovery, vegetation transpiration, organic farming, carbon fixation, and the recovery of ecosystem cooling capacity.
 

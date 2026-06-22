@@ -20,6 +20,13 @@
 
 ---
 
+## Food Waste and Organic Waste Closed-Loop Model
+
+- [Food Waste to Humus Closed-Loop Cooling Credit Model](docs/implementation_guides/FOOD_WASTE_TO_HUMUS_CLOSED_LOOP_COOLING_CREDIT_MODEL.md)
+  A closed-loop implementation model that connects restaurants, food businesses, humus/composting operators, and farmers to convert food waste and organic residues into soil regeneration, water retention, vegetation recovery, and natural cooling capacity.
+
+---
+
 ## Overview
 
 **Cooling Credit Implementation Portfolio** is an open implementation framework for organizing the practical technologies, industrial entry points, and social systems that can support the **Cooling Credit** concept.

@@ -39,6 +39,7 @@
 - [ゴミは存在しない](https://note.com/inchacomusho/n/n6b9d7d67484a)
 - [地球にゴミは存在しない](https://github.com/InchaComisho/There-Is-No-Waste-on-Earth/blob/main/README_ja.md)
 - [There Is No Waste on Earth](https://github.com/InchaComisho/There-Is-No-Waste-on-Earth/blob/main/README.md)
+- [نموذج أرصدة التبريد ذي الحلقة المغلقة من مخلفات الطعام إلى الدبال](implementation_guides/FOOD_WASTE_TO_HUMUS_CLOSED_LOOP_COOLING_CREDIT_MODEL_ar.md)
 
 من خلال تجفيف وسحق وتعقيم بقايا الطعام والنفايات العضوية والأوراق المتساقطة ثم تفكيكها ميكروبيًا إلى مادة شبيهة بالدبال، يمكن دعم رطوبة التربة، واستعادة الكائنات الدقيقة، ونتح النباتات، والزراعة العضوية، وتثبيت الكربون، واستعادة قدرة النظام البيئي على التبريد.
 
