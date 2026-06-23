@@ -20,6 +20,17 @@
 
 ---
 
+## Support, Collaboration, and Implementation
+
+- [Support, Collaboration, and Implementation Policy](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/docs/SUPPORT_AND_COLLABORATION.md)
+
+This portfolio is an open implementation design set for applying Cooling Credits in society.
+It organizes urban cooling, ocean circulation, soil regeneration, forest regeneration, organic-resource circulation, transportation and public-facility cooling, and business models in a form that can be referenced by governments, municipalities, companies, research institutions, investors, and local communities.
+
+However, if these concepts are used for implementation, commercialization, institutional design, research, or investment decisions, please provide clear credit to the original proposer, **Master / inchacomusho / InchaComisho**, and consider appropriate forms of support, collaboration, sponsorship, joint research, consulting, or implementation partnership.
+
+---
+
 ## Related Concepts and Implementation Candidate Links
 
 - [Related Concepts and Implementation Candidate Links](docs/RELATED_IMPLEMENTATION_LINKS.md)
