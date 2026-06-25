@@ -6,6 +6,16 @@
 
 ---
 
+## 図解：クーリングクレジット実装フレームワーク
+
+<p align="center">
+  <img src="images/Cooling-Credit-Framework-JP.png" alt="クーリングクレジット：地球を冷やす行為を市場に変える" width="100%">
+</p>
+
+この図は、冷却アクション、MRV（測定・報告・検証）、クーリングスコア、仮クーリングクレジット単位、投資・事業拡大、自然冷却機能の再起動、災害リスク低減・気候安定化までの流れを一枚で整理したものです。
+
+---
+
 ## クーリングクレジット多言語ポータル
 
 - [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)

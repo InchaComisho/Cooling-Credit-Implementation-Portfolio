@@ -13,6 +13,16 @@
 
 ---
 
+## Visual Overview: Cooling Credit Implementation Framework
+
+<p align="center">
+  <img src="images/Cooling-Credit-Framework-EN.png" alt="Cooling Credit Implementation Framework: turning cooling actions into market value" width="100%">
+</p>
+
+This diagram summarizes how Cooling Credits connect cooling actions, MRV, cooling scores, provisional credit units, investment, implementation expansion, natural cooling recovery, and climate resilience.
+
+---
+
 ## Cooling Credit Multilingual Portal
 
 - [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
