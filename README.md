@@ -559,6 +559,12 @@ They must incorporate regional conditions, measurability, safety, and sustainabi
 - [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
   A multilingual search gateway connecting sustainability, SDGs, environmental mobility, ESG, climate adaptation, urban cooling, and Civilization OS to Cooling Credits.
 
+### Global Warming Causal Structure and Cooling Credit
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## Conclusion
 
 Cooling Credits do not deny the need for CO₂ reduction.
