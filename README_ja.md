@@ -1,5 +1,7 @@
 # クーリングクレジット実装ポートフォリオ
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Cooling Credit Implementation Portfolio
 
 ### 企業・自治体・農業・海洋・都市・生活技術が参加できる地球直接冷却の実装体系

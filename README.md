@@ -1,5 +1,7 @@
 # Cooling Credit Implementation Portfolio
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## クーリングクレジット実装ポートフォリオ
 
 ### An Implementation Framework for Direct Planetary Cooling Open to Companies, Municipalities, Agriculture, Ocean Technologies, Urban Systems, and Everyday Cooling Devices
