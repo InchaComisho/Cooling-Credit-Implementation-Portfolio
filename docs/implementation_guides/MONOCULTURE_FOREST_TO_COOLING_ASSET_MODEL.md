@@ -1,5 +1,7 @@
 # Monoculture Forest to Cooling Asset Model
 
+[日本語版はこちら / Japanese version](MONOCULTURE_FOREST_TO_COOLING_ASSET_MODEL_ja.md)
+
 ## A Cooling Credit Model for Converting Monoculture and Abandoned Forests into Cooling Assets
 
 [← Back to Implementation Guide Index](IMPLEMENTATION_GUIDE_INDEX_ja.md)  

@@ -1,5 +1,7 @@
 # レストラン残飯・生ごみ腐葉土化クローズドループ型クーリングクレジットモデル
 
+[English Version](FOOD_WASTE_TO_HUMUS_CLOSED_LOOP_COOLING_CREDIT_MODEL.md)
+
 ## Food Waste to Humus Closed-Loop Cooling Credit Model
 
 [← 実装ガイドINDEXへ戻る](IMPLEMENTATION_GUIDE_INDEX_ja.md)  

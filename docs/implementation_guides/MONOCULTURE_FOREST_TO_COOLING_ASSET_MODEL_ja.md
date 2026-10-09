@@ -1,5 +1,7 @@
 # 単一植生・放置林を冷却資産へ変えるクーリングクレジットモデル
 
+[English Version](MONOCULTURE_FOREST_TO_COOLING_ASSET_MODEL.md)
+
 ## Monoculture Forest to Cooling Asset Model
 
 [← 実装ガイドINDEXへ戻る](IMPLEMENTATION_GUIDE_INDEX_ja.md)  

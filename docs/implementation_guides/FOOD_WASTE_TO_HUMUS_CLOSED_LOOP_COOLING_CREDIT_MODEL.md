@@ -1,5 +1,7 @@
 # Food Waste to Humus Closed-Loop Cooling Credit Model
 
+[日本語版はこちら / Japanese version](FOOD_WASTE_TO_HUMUS_CLOSED_LOOP_COOLING_CREDIT_MODEL_ja.md)
+
 ## A Closed-Loop Cooling Credit Model for Restaurants, Organic Waste, Humus Production, and Local Agriculture
 
 [← Back to Implementation Guide Index](IMPLEMENTATION_GUIDE_INDEX_ja.md)  
