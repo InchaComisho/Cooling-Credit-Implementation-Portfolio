@@ -154,7 +154,7 @@ OBS、OTU、深海エアレーションは、海洋表層熱、鉛直循環、�
 ## 戻る
 
 - [クーリングクレジット実装ポートフォリオ README_ja.md](../README_ja.md)
-- [Cooling Credit Implementation Portfolio README.md](../README.md)
+- [Cooling Credit Implementation Portfolio README.md](../README_ja.md)
 - [محفظة تنفيذ أرصدة التبريد README_ar.md](../README_ar.md)
 
 ---
